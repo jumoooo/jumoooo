@@ -105,37 +105,37 @@
 
 <br />
 
-## 🎮 Worlds & Projects
+## 🚀 Featured Projects
 
-<!-- 🕹️ Game & Interactive -->
+<!-- 📱 Apps & UI -->
 
-### 🎮 Game & Interactive
+### 📱 Apps & UI
 
 - [flutter-calender](https://github.com/jumoooo/flutter-calender)  
-  플러터로 만든 캘린더 앱. 모바일 UI와 인터랙션을 실험한 작은 월드.  
-  _(Flutter calendar app exploring UI & interaction.)_
+  플러터로 만든 캘린더 앱. 모바일 UI와 인터랙션을 실험한 작은 캘린더.  
+  _(A Flutter calendar app exploring mobile UI and interactions.)_
 
 - [bulletin_board](https://github.com/jumoooo/bulletin_board)  
-  Vue 3, Firebase, Quasar로 만든 게시판 포트폴리오. 실전 감성 CRUD 연습장.  
-  _(Bulletin board portfolio built with Vue 3, Firebase, and Quasar.)_
+  Vue 3, Firebase, Quasar로 만든 게시판 포트폴리오. 실전 CRUD 연습장.  
+  _(A bulletin board portfolio built with Vue 3, Firebase, and Quasar, used as a practical CRUD playground.)_
 
 <br />
 
-<!-- 🧠 Agents & Automation -->
+<!-- 🤖 Agents & Automation -->
 
-### 🧠 Agents & Automation
+### 🤖 Agents & Automation
 
 - [bmad-agent-system](https://github.com/jumoooo/bmad-agent-system)  
   항해 플러스 프론트엔드에서 사용한 BMAD Agent 커스텀. 개발 흐름을 돕는 에이전트 시스템.  
-  _(Custom BMAD agent system used in Hanghae Plus frontend.)_
+  _(A customized BMAD agent system used in the Hanghae Plus frontend to support the development workflow.)_
 
 - [universal-notion-agent](https://github.com/jumoooo/universal-notion-agent)  
-  마크다운을 자동으로 Notion에 소환해주는 AI Agent. Cursor, Claude CLI, Antigravity 지원.  
-  _(AI agent that uploads markdown to Notion automatically.)_
+  마크다운을 자동으로 Notion에 업로드해주는 AI Agent. Cursor, Claude CLI, Antigravity 지원.  
+  _(An AI agent that automatically uploads markdown content to Notion, supporting Cursor, Claude CLI, and Antigravity.)_
 
 - [steam-game-server-mcp](https://github.com/jumoooo/steam-game-server-mcp)  
-  Steam 게임 서버 정보를 조회·모니터링하는 MCP 서버. 게임 서버 관리용 도구 상자.  
-  _(AI-powered MCP server for querying and managing game servers.)_
+  Steam 게임 서버 정보를 조회·모니터링하고 게임 서버를 관리하는 MCP 서버.  
+  _(An AI-powered MCP server for querying, monitoring, and managing Steam game servers.)_
 
 <br />
 
@@ -144,8 +144,8 @@
 ### 🛠️ Setup & Utilities
 
 - [my-cursor-setup](https://github.com/jumoooo/my-cursor-setup)  
-  Cursor / Flutter 개발 환경을 위한 셋업 리포. 내가 쓰는 도구와 설정 모음집.  
-  _(My Cursor & Flutter setup and configurations.)_
+  Cursor 개발 환경을 위한 셋업 리포. 내가 쓰는 도구와 설정 모음집.  
+  _(A setup repository for my Cursor development environment, collecting the tools and configurations I use.)_
 
 <!-- 👉 여기에 더 보여주고 싶은 레포가 생기면 섹션을 추가하거나 항목을 확장하면 됩니다 -->
 
@@ -163,11 +163,6 @@
     alt="Velog - wnsah3206"
   />
 </a>
-
-<!-- 📂 포트폴리오/노션 링크가 생기면 아래에 추가해 주세요 -->
-<!--
-- 📂 Portfolio / Notion: https://notion.so/xxxx
--->
 
 ---
 
