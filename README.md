@@ -1,4 +1,3 @@
-
 <div align="center">
   <!-- 👋 인사 영역 (GitHub 아바타) -->
   <img src="https://github.com/jumoooo.png" alt="jumoooo's GitHub avatar" width="120" style="border-radius: 50%;" />
@@ -59,6 +58,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
 </div>
 
+<br />
+
+### 🧰 Tools (Cursor &amp; Claude)
+
+<div>
+  <!-- Cursor IDE -->
+  <img
+    src="./assets/cursor-ai.png"
+    height="40"
+    alt="Cursor"
+    title="Cursor"
+    style="border-radius: 8px;"
+  />
+  <img width="10" />
+  <!-- Claude (Anthropic) -->
+  <img
+    src="./assets/claude-ai.jpg"
+    height="40"
+    alt="Claude"
+    title="Claude"
+    style="border-radius: 8px;"
+  />
+</div>
+
 ---
 
 <br />
@@ -80,7 +103,7 @@
     height="160"
   />
 
-  <br /><br />
+<br /><br />
 
   <!-- 🐍 Contribution Snake (다크/라이트 대응, jumoooo 버전) -->
   <picture>
