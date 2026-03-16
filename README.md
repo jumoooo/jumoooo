@@ -60,7 +60,7 @@
 
 <br />
 
-### 🧰 Tools (Cursor &amp; Claude)
+### 🧰 Tools (AI)
 
 <div>
   <!-- Cursor IDE -->
